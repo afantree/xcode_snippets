@@ -10,6 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>[UIView beginAnimations:nil context:nil];
+ [UIView setAnimationDuration:&lt;#(NSTimeInterval)#&gt;];
     [UIView animateWithDuration:&lt;#(NSTimeInterval)#&gt; animations:&lt;#^(void)animations#&gt; completion:&lt;#^(BOOL finished)completion#&gt;];
     [UIView commitAnimations];</string>
 	<key>IDECodeSnippetIdentifier</key>
