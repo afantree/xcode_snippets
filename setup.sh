@@ -1,4 +1,4 @@
 #! /bin/bash
 SRC_HOME=`pwd`
-cp -aRf ${SRC_HOME}/CodeSnippets ~/Library/Developer/Xcode/UserData/
+cp -af ${SRC_HOME}/CodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/
 echo "done"

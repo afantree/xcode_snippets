@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>/**
- &lt;#description#&gt;
- @param &lt;#parameter#&gt;
- @returns &lt;#retval#&gt;
- @exception &lt;#throws#&gt;
+ * &lt;#description#&gt;
+ * @param &lt;#parameter#&gt;
+ * @returns &lt;#retval#&gt;
+ * @exception &lt;#throws#&gt;
  */</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4DBD07FC-AFF5-4F50-832A-D763669CC057</string>

@@ -1,6 +1,7 @@
 #! /bin/bash
 SRC_HOME=`pwd`
-cp -a ~/Library/Developer/Xcode/UserData/CodeSnippets ${SRC_HOME}/CodeSnippets
+rm -rdf CodeSnippets/*.codesnippet
+cp -af ~/Library/Developer/Xcode/UserData/CodeSnippets/*.codesnippet ${SRC_HOME}/CodeSnippets/
 
 git commit -a -m "update"
 git push -u origin master
